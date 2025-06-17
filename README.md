@@ -1,12 +1,4 @@
-
-# AWS Account Creation Project
-## What is cloud?
-## What is AWS Cloud?
-## Importance of AWS Cloud?
-## Setting Up Your AWS Account
-## 
-
-## E-commerce Platform Deployment with Git, Linux and AWS
+# E-commerce Platform Deployment with Git, Linux and AWS
 
 The scope of the project is develop an e-commerce website for a new online marketplace named "MarketPeace" . This platform will feature product listings, a shopping cart, and user authentication. Objective is to use Git for version control, develop the platform in Linux environment, and deploy it on an AWS EC2 instance.
 
